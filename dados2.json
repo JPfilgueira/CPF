@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Cena do Crime",
+        "album": "ANTI-AMOR",
+        "style": "R&B/Soul",
+        "price": "R$ 17,00",
+        "imagem": "<img src='https://m.media-amazon.com/images/I/51kanJIcHnL._UXNaN_FMjpg_QL85_.jpg'>",
+        "platforms": "Spotify, YouTube Music, Deezer, Amazon Music, Apple Music"
+    },
+    {
+        "nome": "Roda Gigante",
+        "album": "Invasor",
+        "style": "Hip-Hop/rap",
+        "price": "R$ 17,90",
+        "imagem": "<img src='https://i.pinimg.com/736x/c1/a0/ad/c1a0adfb9067b06432cbb953494684e6.jpg'>",
+        "platforms": "Spotify, YouTube Music, Deezer, Amazon Music"
+    },
+    {
+        "nome": "Lua",
+        "album": "Coisas da Geração",
+        "style": "Pop",
+        "price": "R$ 20,90",
+        "imagem": "<img src='https://cdns-images.dzcdn.net/images/cover/73eb9096fc9d620c93f8bea05ed3b2ff/0x1900-000000-80-0-0.jpg'>",
+        "platforms": "Spotify, YouTube Music, Deezer, Amazon Music, Apple Music"
+    }
+]
